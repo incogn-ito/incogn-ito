@@ -2,7 +2,7 @@
     <img align="center" src="https://i.imgur.com/3kfj94h.jpeg">
 <hr>
 <h2> Hi There 👋 </h2>
-<h3> I’m Ito Aghayere – a passionate software engineer with a background in storytelling and project management. I thrive at the intersection of creativity and technology, currently honing my skills in full-stack development through General Assembly. I enjoy building apps that solve real-world problems, like my recent project Feast Finders. When I’m not coding, I love exploring nature and drawing inspiration from the outdoors. Let’s connect and create something amazing!. </h3>
+<h3> I’m Ito Aghayere – a software engineer blending storytelling, project management, and tech to bring ideas to life. Passionate about the intersection of creativity and code, I’ve sharpened my full-stack development skills through General Assembly. I love building apps that deliver engaging, dynamic user experiences, like my recent project Feast Finders. Outside of coding, I explore nature and find inspiration through traveling the world. Let’s connect and build something extraordinary! </h3>
 <hr>
 <div>
     <h3>Connect with me</h3>
